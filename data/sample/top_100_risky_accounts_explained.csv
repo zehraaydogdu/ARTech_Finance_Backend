@@ -1,0 +1,101 @@
+node_id,account_number,bank_id,out_tx_count,in_tx_count,total_tx_count,total_sent,total_received,total_money_flow,degree_like_count,node_is_laundering_related,risk_score,risk_level,risk_reason
+153,10042B660,70,222037,1553,223590,73113736651.54,803053.5,73114539705.04,19727,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+124355,10042B6A8,70,138777,951,139728,37451441299.46,414927.18,37451856226.64,12355,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+202278,10042B6F0,70,42385,345,42730,105904323562.01,1421533.45,105905745095.45999,3787,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+225631,10042B738,70,18213,135,18348,924295797491.38,6197232.29,924301994723.67,1630,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+236137,10042B780,70,30802,223,31025,729181092474.44,6788354.42,729187880828.86,2738,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+252663,10042B7C8,70,7670,57,7727,110599990924.55,1803870.21,110601794794.76001,678,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+257278,10042B810,70,8145,68,8213,1032663524.1,63584.119999999995,1032727108.22,749,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+261726,10042B858,70,15684,130,15814,6038722651.91,256191.05000000002,6038978842.96,1404,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+269966,10042B8A0,70,19254,160,19414,9356174980.56,137820.22,9356312800.779999,1718,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+280129,10042B8E8,70,7737,64,7801,38775894015.33,2323487.92,38778217503.25,694,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+284030,10042B930,70,19445,131,19576,28700687549.95,281817.95,28700969367.9,1661,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+293629,10042B978,70,12227,74,12301,4145527129.87,27540.04,4145554669.91,1079,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+299937,10042B9C0,70,16266,96,16362,27437702244.66,162719.0,27437864963.66,1419,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+308395,10042BA08,70,22417,170,22587,23318839990.63,353520.13,23319193510.760002,2014,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+321066,10042BA51,70,28932,84,29016,762910.661893,3.8529459999999998,762914.5148390001,2516,1,1.0,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+489839,808283270,21130,22,91,113,48981.36,9129985.799999999,9178967.159999998,92,0,0.9999999999999956,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+701899,80AC3D4E0,223281,0,92,92,0.0,44314373.25,44314373.25,90,0,0.9999999999999878,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+317833,818923590,266406,3,90,93,25304.67,871846.59,897151.26,91,0,0.9999999999999871,high,Hesapta yoğun işlem trafiği tespit edildi.
+146794,805ADEA90,3671,1,87,88,115786.24,13367492.27,13483278.51,88,0,0.9999999999999862,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+51910,80AEBC5F0,224231,1,90,91,8.91,6908260.7,6908269.61,89,0,0.9999999999999796,high,Hesapta yoğun işlem trafiği tespit edildi.
+317826,8187275B0,263431,3,88,91,449950.46,7506568.77,7956519.2299999995,89,0,0.9999999999999729,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+454633,80BB21160,120280,1,87,88,20.76,205732.27,205753.03,87,0,0.99999999999997,high,Hesapta yoğun işlem trafiği tespit edildi.
+155985,80898E9E0,27737,2,86,88,19608.86,193793.1,213401.96000000002,86,0,0.999999999999968,high,Hesapta yoğun işlem trafiği tespit edildi.
+505172,80283BC60,6269,1,84,85,30758.8,216089.75,246848.55,85,1,0.9999999999999574,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+360346,812C9E230,18903,2,84,86,127482.4,338727.58999999997,466209.99,85,0,0.9999999999999487,high,Hesapta yoğun işlem trafiği tespit edildi.
+545214,80B658F20,112568,1,85,86,24.13,186338.19,186362.32,85,0,0.9999999999999378,high,Hesapta yoğun işlem trafiği tespit edildi.
+463768,811E729B0,116,4,81,85,312276.42,1461277.0999999999,1773553.5199999998,85,0,0.9999999999999365,high,Hesapta yoğun işlem trafiği tespit edildi.
+341727,811E7BA00,214,5,83,88,135368.66,34422597.5,34557966.16,85,0,0.9999999999999352,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+566472,812C938A0,110821,2,84,86,54329.08,270040.61,324369.69,85,0,0.999999999999929,high,Hesapta yoğun işlem trafiği tespit edildi.
+515854,811E710A0,116,4,80,84,137914.98,54236533.339999996,54374448.31999999,84,0,0.9999999999999065,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+704553,815745460,220421,0,87,87,0.0,3054283534.54,3054283534.54,86,0,0.9999999999998992,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+292493,8132E2CE0,151922,5,81,86,646000.99,16921804.330000002,17567805.32,84,1,0.9999999999998399,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+528341,811DD2160,10,3,79,82,53279.590000000004,49243038.94,49296318.53,82,0,0.9999999999998275,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+524894,8005071F0,1291,1,80,81,19.83,197462.9,197482.72999999998,81,0,0.9999999999998106,high,Hesapta yoğun işlem trafiği tespit edildi.
+339836,803E2D8C0,5923,2,82,84,10850.630000000001,37450282.06,37461132.690000005,81,0,0.9999999999998033,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+292525,813300F70,149891,3,81,84,7569.0199999999995,1065026.61,1072595.6300000001,83,0,0.999999999999801,high,Hesapta yoğun işlem trafiği tespit edildi.
+386554,8132DE760,49700,3,79,82,91732.40000000001,1057594.95,1149327.3499999999,82,0,0.9999999999997964,high,Hesapta yoğun işlem trafiği tespit edildi.
+92619,81492EBE0,28932,2,81,83,15066143.03,18570645.96,33636788.99,81,0,0.9999999999997882,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+393587,816C44DB0,58138,2,81,83,179971.37,4792699.09,4972670.46,81,0,0.9999999999997657,high,Hesapta yoğun işlem trafiği tespit edildi.
+287544,812488FE0,214,2,83,85,131278.08,1208092.84,1339370.9200000002,80,0,0.9999999999997198,high,Hesapta yoğun işlem trafiği tespit edildi.
+382567,8185DB6B0,124273,1,80,81,26840.81,2885575.66,2912416.47,81,0,0.9999999999997082,high,Hesapta yoğun işlem trafiği tespit edildi.
+446432,804E9AE50,27356,1,80,81,19206.62,1219960.3800000001,1239167.0000000002,80,0,0.9999999999996967,high,Hesapta yoğun işlem trafiği tespit edildi.
+108574,8182BA500,41215,5,79,84,19511.309999999998,205275.87,224787.18,81,0,0.999999999999664,high,Hesapta yoğun işlem trafiği tespit edildi.
+702199,812588260,219788,0,82,82,0.0,211043.67,211043.67,81,0,0.9999999999996443,high,Hesapta yoğun işlem trafiği tespit edildi.
+98410,816421E30,124173,2,80,82,64758.14,39867518.27,39932276.410000004,80,0,0.9999999999995661,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+119815,81B052C40,259304,1,81,82,12607.86,219966.65,232574.51,81,0,0.9999999999995302,high,Hesapta yoğun işlem trafiği tespit edildi.
+451421,814C353A0,116299,3,80,83,154.04000000000002,183995.53,184149.57,80,0,0.9999999999995177,high,Hesapta yoğun işlem trafiği tespit edildi.
+142733,803878810,23726,1,131,132,13330.7,17489220.35,17502551.05,79,0,0.9999999999995086,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+402904,8182C4A10,56239,4,76,80,5131.77,333028.22000000003,338159.99000000005,80,0,0.9999999999994911,high,Hesapta yoğun işlem trafiği tespit edildi.
+569579,80CE9F1A0,3653,1,79,80,79883.38,5897001.17,5976884.55,78,0,0.9999999999994049,high,Hesapta yoğun işlem trafiği tespit edildi.
+174088,8105C3DE0,5312,2,78,80,974.81,165459.97,166434.78,78,0,0.9999999999993976,high,Hesapta yoğun işlem trafiği tespit edildi.
+216837,8052D4EC0,9534,1,77,78,117.73,53382560.64,53382678.37,78,0,0.9999999999993892,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+352682,8138BCA80,34117,1,78,79,7380.28,15857204.979999999,15864585.259999998,78,0,0.9999999999993379,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+108563,8182A13E0,147509,5,77,82,30733.98,1917808.07,1948542.05,80,0,0.9999999999992899,high,Hesapta yoğun işlem trafiği tespit edildi.
+173530,8103A2D60,12386,1,76,77,11.59,9855876.47,9855888.06,77,0,0.9999999999991087,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+49328,80A4DB640,16263,2,77,79,33.629999999999995,177231.99,177265.62,77,0,0.9999999999990872,high,Hesapta yoğun işlem trafiği tespit edildi.
+377664,80375FD80,28335,1,76,77,846984.7,145044092.5,145891077.2,77,0,0.9999999999990297,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+60972,80CDF03F0,131857,3,78,81,4785.93,294501.74,299287.67,78,0,0.9999999999989171,high,Hesapta yoğun işlem trafiği tespit edildi.
+108554,8181F3830,262290,4,76,80,302661592.26,305375223.96000004,608036816.22,80,0,0.9999999999988693,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+705193,8119ACF60,29154,0,76,76,0.0,3670641.5,3670641.5,76,0,0.9999999999988025,high,Hesapta yoğun işlem trafiği tespit edildi.
+314472,8181AFE60,165675,3,77,80,71745.62000000001,1411077.4,1482823.02,78,0,0.999999999998783,high,Hesapta yoğun işlem trafiği tespit edildi.
+114038,819AC19F0,237640,2,78,80,45742.009999999995,45749801.27,45795543.28,78,0,0.9999999999986253,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+88913,81421A6A0,22031,3,75,78,11469.849999999999,1028847.3300000001,1040317.18,76,0,0.9999999999984386,high,Hesapta yoğun işlem trafiği tespit edildi.
+259992,80CA609B0,133159,1,75,76,14425.99,157821.89,172247.88,76,0,0.9999999999980176,high,Hesapta yoğun işlem trafiği tespit edildi.
+680586,80CDF39F0,28393,1,74,75,891.74,17618372.23,17619263.97,75,0,0.9999999999979923,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+179089,811B0E520,33687,1,74,75,80738.22,1901357.38,1982095.5999999999,75,0,0.9999999999979614,high,Hesapta yoğun işlem trafiği tespit edildi.
+208474,803DDC780,28335,2,76,78,1208.72,103559837.30000001,103561046.02000001,75,0,0.9999999999979259,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+99811,8169CA0F0,257646,1,76,77,8.77,180585.67,180594.44,77,0,0.9999999999978941,high,Hesapta yoğun işlem trafiği tespit edildi.
+471395,81886C660,1,3,74,77,16557.79,14386498.850000001,14403056.64,75,0,0.999999999997887,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+204545,8034D7AF0,15,3,75,78,16811.07,6433051.55,6449862.62,75,0,0.9999999999978859,high,Hesapta yoğun işlem trafiği tespit edildi.
+705476,815313820,213,0,74,74,0.0,6224603.73,6224603.73,74,0,0.9999999999976998,high,Hesapta yoğun işlem trafiği tespit edildi.
+114301,819A72170,49873,3,74,77,28078.16,215983.87,244062.03,75,0,0.9999999999974898,high,Hesapta yoğun işlem trafiği tespit edildi.
+450283,819B50DE0,62847,3,74,77,30025.899999999998,222816.15,252842.05,75,0,0.9999999999973728,high,Hesapta yoğun işlem trafiği tespit edildi.
+247185,809F1ABC0,24869,2,76,78,4267988715.65,4281564099.32,8549552814.97,76,0,0.9999999999972506,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+88894,814216260,229487,3,75,78,4409.72,1823671.22,1828080.94,76,0,0.9999999999967624,high,Hesapta yoğun işlem trafiği tespit edildi.
+248892,80AB3D8C0,128566,2,73,75,104415.68999999999,12110272.54,12214688.229999999,75,0,0.9999999999967228,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+204544,8034D7410,17213,2,72,74,46913.68,101161159.32,101208073.0,74,0,0.9999999999967062,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+109932,81885CC60,252645,2,75,77,99839.0,8096555.19,8196394.19,76,0,0.9999999999965179,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+117325,81A5E9A30,9715,1,73,74,13122.21,17570715.56,17583837.77,73,0,0.9999999999959948,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+144803,804B0F3C0,15400,1,72,73,16.81,158323.16,158339.97,73,0,0.9999999999959381,high,Hesapta yoğun işlem trafiği tespit edildi.
+506731,80AADF3C0,126455,1,74,75,69471.01,13415466.459999999,13484937.469999999,74,0,0.9999999999958651,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+547426,809B1BC70,24713,1,72,73,262041.8,13399382.22,13661424.020000001,73,0,0.9999999999957929,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+117611,81A542CD0,133044,1,73,74,1276.88,157643.93,158920.81,74,0,0.9999999999957876,high,Hesapta yoğun işlem trafiği tespit edildi.
+565869,8042076F0,15680,2,72,74,102394.25,291888.34,394282.59,73,0,0.9999999999953149,high,Hesapta yoğun işlem trafiği tespit edildi.
+525083,8042187A0,18747,2,72,74,81073.99,249204.08,330278.07,73,0,0.9999999999952642,high,Hesapta yoğun işlem trafiği tespit edildi.
+225371,81B828E10,12,1,71,72,234631.66,1352651.66,1587283.3199999998,72,0,0.9999999999943887,high,Hesapta yoğun işlem trafiği tespit edildi.
+484431,8192AAC30,68281,2,71,73,5510.76,1584863.35,1590374.11,73,0,0.9999999999943747,high,Hesapta yoğun işlem trafiği tespit edildi.
+321355,8195CC081,118,2,72,74,4.2779620000000005,591.091332,595.369294,72,0,0.9999999999943194,high,Hesapta yoğun işlem trafiği tespit edildi.
+338954,810682230,115690,1,72,73,2.93,21583513.21,21583516.14,73,0,0.9999999999941971,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+275433,80FC60530,41428,4,71,75,194265.35,1010197.4700000001,1204462.82,73,1,0.9999999999940439,high,Hesap şüpheli işlem etiketiyle ilişkili. Bu nedenle öncelikli incelenmelidir.
+491774,81164ADE0,232814,1,74,75,10123.12,4187497.36,4197620.4799999995,74,0,0.9999999999940006,high,Hesapta yoğun işlem trafiği tespit edildi.
+436233,8104DB380,141352,2,73,75,5401.2,11630365.92,11635767.12,73,0,0.999999999993584,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+549928,803264EC0,1595,2,71,73,33222.04,8166939.63,8200161.67,72,0,0.9999999999934883,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+209657,8042F6D80,7082,2,70,72,12647.529999999999,1294195.55,1306843.08,72,0,0.999999999993386,high,Hesapta yoğun işlem trafiği tespit edildi.
+567265,8093087B0,223135,2,72,74,2395.0099999999998,1685100.83,1687495.84,74,0,0.9999999999933513,high,Hesapta yoğun işlem trafiği tespit edildi.
+141717,803250230,17036,2,71,73,3888.29,1443559.63,1447447.92,72,0,0.999999999993135,high,Hesapta yoğun işlem trafiği tespit edildi.
+564448,804319B10,19931,2,70,72,32390.629999999997,46447294.370000005,46479685.00000001,72,0,0.9999999999930136,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
+43048,808898740,21246,3,72,75,7568.41,175328.24,182896.65,72,0,0.9999999999929499,high,Hesapta yoğun işlem trafiği tespit edildi.
+319534,8192B3CB0,265175,2,72,74,39368.16,3935503.7,3974871.8600000003,74,0,0.9999999999922893,high,Hesapta yoğun işlem trafiği tespit edildi.
+150478,806DFE960,17059,3,69,72,26041733.24,982253.27,27023986.509999998,72,0,0.9999999999921243,high,"Hesapta yüksek işlem yoğunluğu, yüksek para akışı ve çok sayıda bağlantı tespit edildi."
