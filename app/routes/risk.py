@@ -2,7 +2,10 @@ from fastapi import APIRouter, HTTPException
 
 from app.services.risk_service import (
     get_top_risky_accounts,
-    get_account_risk
+    get_account_risk,
+    get_dashboard_stats,
+    get_risk_distribution,
+    get_suspicious_trend
 )
 
 router = APIRouter()
@@ -27,3 +30,18 @@ def account_risk_detail(account_number: str):
         )
 
     return account
+
+
+@router.get("/dashboard/stats")
+def dashboard_stats():
+    return get_dashboard_stats()
+
+
+@router.get("/dashboard/risk-distribution")
+def risk_distribution():
+    return get_risk_distribution()
+
+
+@router.get("/dashboard/suspicious-trend")
+def suspicious_trend():
+    return get_suspicious_trend()
